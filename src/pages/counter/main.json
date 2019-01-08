@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "查看",
+  "usingComponents": {
+    "van-button": "../../../vant//dist/button/index"
+  }
+}
